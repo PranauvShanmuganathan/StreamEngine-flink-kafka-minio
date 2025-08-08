@@ -1,1 +1,6 @@
-Hi this is the readme file of this project
+# **Streaming Data Pipeline - Quick Start Guide**
+
+## **3. Start All Services**
+```bash
+docker-compose up -d
+
